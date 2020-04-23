@@ -1,5 +1,10 @@
 This is the changelog file for the OPC DA/AE Server SDK.
 
+## OPC DA/AE Server SDK - 1.0.423
+
+# Fixed Issues
+- GetActiveItems does not return the correct list if no active items (#1)
+
 ## OPC DA/AE Server SDK - 1.0.419
 
 ###	Enhancement
