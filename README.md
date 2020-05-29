@@ -39,5 +39,4 @@ The OPC DA/AE Server SDK source code is available under a commercial source code
 
 Our Source Code License Agreement (https://technosoftware.com/documents/Source_License_Agreement.pdf) allows the use of the OPC DA/AE Server SDK source code to develop software on and for all supported operating system and hardware platforms.
 
-#### Support for the SDK under Source Code License
-Support for the SDK under the Source Code License is only available via https://github.com/technosoftware-gmbh/opc-daae-server-sdk-src/issues. 
+The OPC DA/AE Server SDK Support Subscription including access to the full source code can be purchased via https://technosoftware.com/product/opc-daae-server-sdk-support-subscription/.
